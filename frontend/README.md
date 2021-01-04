@@ -138,3 +138,12 @@ https://www.npmjs.com/package/react-helmet
 https://www.npmjs.com/package/axios
 
 
+
+
+MONGO DB
+username: proshop,
+collection name: products
+
+DB
+username: proshop,
+password: proshop@123
